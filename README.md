@@ -98,7 +98,7 @@ python RMain.py
 │── README.md
 
 📊 Performance & Results
-
+![image alt](https://raw.githubusercontent.com/wasifhaq434701-png/Traffic-Violation-Intelligence/refs/heads/main/2.avif)
 
 
 
