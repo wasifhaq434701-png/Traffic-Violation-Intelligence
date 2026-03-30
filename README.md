@@ -98,6 +98,11 @@ python RMain.py
 │── README.md
 
 📊 Performance & Results
+
+
+![image alt](https://github.com/wasifhaq434701-png/Traffic-Violation-Intelligence/blob/main/9.png?raw=true)
+
+
 ![image alt](https://raw.githubusercontent.com/wasifhaq434701-png/Traffic-Violation-Intelligence/refs/heads/main/2.avif)
 
 
