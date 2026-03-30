@@ -3,6 +3,10 @@
 
 
 
+![image alt](https://github.com/wasifhaq434701-png/Traffic-Violation-Intelligence/blob/main/3.png?raw=true)
+
+![image alt](https://github.com/wasifhaq434701-png/Traffic-Violation-Intelligence/blob/main/5.png?raw=true)
+
 📌 Overview
 This project is an AI-powered traffic monitoring system that detects and analyzes multiple traffic violations in real-time using Computer Vision and Deep Learning.
 The system processes images and videos to identify:
