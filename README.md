@@ -58,6 +58,9 @@ SQLite / Local Storage
 📸 Sample Outputs
 
 
+![image alt](https://github.com/wasifhaq434701-png/Traffic-Violation-Intelligence/blob/main/1.png?raw=true)
+
+
 
 
 Bounding boxes around detected vehicles
