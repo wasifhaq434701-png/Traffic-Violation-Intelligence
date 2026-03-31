@@ -133,7 +133,14 @@ Contributions are welcome! Feel free to fork this repo and submit a pull reque
 This project is licensed under the MIT License.
 
 👨‍💻 Author
-Mohammed Wasif AI & Machine Learning Enthusiast
+MOHAMMED WASIF UL HAQ
+LinkedIn: www.linkedin.com/in/mohammedwasifulhaq
+Github: https://github.com/wasifhaq434701-png?tab=overview&from=2026-02-01&to=2026-02-28
+
+ABDUL SAMAD
+LinkedIn: https://www.linkedin.com/in/abdul-samad-ab5a58316?utm_source=share_via&utm_content=profile&utm_medium=member_android
+Github: https://github.com/AbdulSamad502
+
 
 ⭐ Support
 If you like this project, don’t forget to star ⭐ the repository!
